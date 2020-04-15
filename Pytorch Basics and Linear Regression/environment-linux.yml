@@ -1,6 +1,6 @@
 name: 01-pytorch-basics
 channels:
-  - defaults
+  - defaults 
 dependencies:
   - _libgcc_mutex=0.1
   - attrs=19.3.0
