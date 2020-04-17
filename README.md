@@ -52,3 +52,10 @@ $ jupyter notebook
 ```
 You can now access Jupyter's web interface by clicking the link that shows up on the terminal or by visiting [http://localhost:8888](https://jovian.ml/outlink?url=http%3A%2F%2Flocalhost%3A8888) on your browser.
 
+## What it includes:
+1. PyTorch Basics: Tensors & Gradients
+2. Linear Regression & Gradient Descent
+3. Image Classfication using Logistic Regression
+4. Training Deep Neural Networks on a GPU
+5. Convolutional Neural Networks, Regularization and ResNets
+6. Generative Adverserial Networks
