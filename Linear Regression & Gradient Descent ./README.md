@@ -1,3 +1,4 @@
+## PART-2 : LINEAR REGRESSION & GRADIENT DESCENT 
 We'll discuss one of the foundational algorithms of machine learning in this section: Linear regression. We'll create a model that predicts crop yields for apples and oranges (target variables) by looking at the average temperature, rainfall and humidity (input variables or features) in a region. Here's the training data:
 
 ![linear-regression-training-data](https://i.imgur.com/6Ujttb4.png)
